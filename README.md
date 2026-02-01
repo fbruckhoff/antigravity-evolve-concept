@@ -1,4 +1,4 @@
-# 🧬 Evolutionary Algorithm Workflow for Google Antigravity
+# 🧬 GravitonEvolve: Evolutionary Algorithm Workflow for Google Antigravity
 
 This workflow implements an evolutionary algorithm designed to evolve and refine unstructured text concepts, drafts, and ideas. Unlike code evolution tools, this workflow is intended for improving concepts and unstructured text through recursive mutation, crossover, and selection of the fittest.
 
